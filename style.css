@@ -1,0 +1,22 @@
+
+.button1{
+    background-image: url("home.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    width:150px;
+    height:30px;
+}
+.button2{
+    background-image: url("js.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    width:150px;
+    height:30px;
+}
+.button3{
+    background-image: url("aboutme.png");
+    background-repeat: no-repeat;
+    background-position:center;
+    width:150px;
+    height:30px;
+}
