@@ -1,28 +1,66 @@
 
 .button1{
-    background-image: url("home.png");
+    background-image: url("images/homebutton.png");
     background-repeat: no-repeat;
     background-position:center;
     width:150px;
-    height:30px;
+    height:50px;
+    border-color:transparent;
+    background-color:transparent;
 }
 .button2{
-    background-image: url("js.png");
+    background-image: url("images/javabutton.png");
     background-repeat: no-repeat;
     background-position:center;
     width:150px;
-    height:30px;
+    height:50px;
+    border-color:transparent;
+    background-color:transparent;
 }
 .button3{
-    background-image: url("aboutme.png");
+    background-image: url("images/aboutme.png");
     background-repeat: no-repeat;
     background-position:center;
     width:150px;
-    height:30px;
+    height:50px;
+    border-color:transparent;
+    background-color:transparent;
 }
 .golfpic{
     width:150px;
 }
 .hikingpic{
     width:350px;
+}
+body{
+    background-color: #6d9db5;
+}
+h1{
+    font-size:38px;
+    font-family: "Dela Gothic One", sans-serif;
+    color: #01324b;
+    font-weight: bold;
+    #01324b
+}
+#websitesize{
+    width:1024px;
+    margin: 0 auto;
+}
+p{
+    font-family: "Dela Gothic One", sans-serif;
+    margin-top:20px;
+    margin-bottom:20px;
+    font-size:18px;
+}
+.table1{
+    background-color:#006ea4;
+    margin:auto;
+    width:1024px;
+}
+.aboutme{
+    background-image : url("images/background2.png")
+}
+.abtmetable{ 
+    margin:auto;
+    width:1024px;
 }
