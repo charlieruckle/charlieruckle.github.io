@@ -42,19 +42,22 @@ h1{
     font-weight: bold;
     #01324b
 }
-#websitesize{
+.body{
     width:1024px;
-    margin: 0 auto;
 }
 p{
     font-family: "Dela Gothic One", sans-serif;
     margin-top:20px;
     margin-bottom:20px;
     font-size:18px;
+    width:1024px;
 }
 .table1{
     background-color:#006ea4;
     width:1024px;
+}
+.hr{
+    width: 1024px;
 }
 .aboutme{
     background-image : url("images/background2.png")
